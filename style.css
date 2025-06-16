@@ -1,12 +1,12 @@
 body {
   font-family: Arial, sans-serif;
   margin: 0;
-  background: linear-gradient(to right, #0000ff, #1e90ff); /* Blue gradient */
+  background-color: #0d0d0d;
   color: #f0f0f0;
 }
 
 .navbar {
-  background-color: #121212; /* Dark sleek navbar */
+  background-color: #121212;
   padding: 10px 20px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.6);
 }
@@ -21,26 +21,26 @@ body {
 
 .navbar li a {
   text-decoration: none;
-  color: #00ffff; /* Neon cyan links */
+  color: #00ffff;
   font-weight: bold;
   transition: color 0.3s ease;
 }
 
 .navbar li a:hover {
-  color: #ff69b4; /* Hot pink on hover for spice */
+  color: #ff69b4;
 }
 
 .container {
   padding: 20px;
   max-width: 800px;
   margin: auto;
-  background-color: rgba(255, 255, 255, 0.08); /* Glassy container */
+  background-color: rgba(255, 255, 255, 0.08);
   border-radius: 12px;
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
 
 h1, h2, h3 {
-  color: #ffff66; /* Soft yellow for contrast */
+  color: #ffff66;
 }
 
 p {
